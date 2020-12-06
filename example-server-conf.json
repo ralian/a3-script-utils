@@ -1,0 +1,19 @@
+{
+	"ServerName": "Test Server",
+  "ServerPort": 2102,
+	"ServerDir": "C:/A3Servers/TestServer",
+	"ServerModDir": "C:/SM",
+	"SteamModDir": "D:/SteamLibrary/steamapps/common/Arma 3/!Workshop",
+	"Mods": {
+		"@CBA_A3": "@CBA_A3",
+		"@ace": "@ACE",
+		"@Tao Folding Map": "@TFM",
+    "@A Mod that doesnt exist": "@Badmoddir"
+	},
+	"ServerMods": {
+		"@Advanced Towing": "@AdvancedTowing"
+	},
+  "AllowedKeys": {
+    "@JSRS SOUNDMOD": "@JSRS"
+  }
+}
